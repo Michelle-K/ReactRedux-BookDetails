@@ -1,1 +1,1 @@
-# A Basic Redux Example page Displaying Book Details
+# A Basic Redux Example Page Displaying Book Details
