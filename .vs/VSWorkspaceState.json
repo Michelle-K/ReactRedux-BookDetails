@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\actions",
+    "\\src\\components",
+    "\\src\\containers",
+    "\\src\\reducers"
+  ],
+  "SelectedNode": "\\src\\containers\\book-detail.js",
+  "PreviewInSolutionExplorer": false
+}
